@@ -13,7 +13,7 @@ The "scripts" folder consists of the following scripts:
 - 08_FLODIS_IDMC_matching.py
 - 09_FLODIS_EMDAT_matching.py
 - 10_FLODIS_postprocessing.ipynb
-- 11_plots_maps_stats.ipynb
+- 11_plot_maps_stats.ipynb
 - 12_technical_validation.ipynb
 
 Short description of the scripts:
