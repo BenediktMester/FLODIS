@@ -3,20 +3,18 @@ FLODIS links estimates of flood-induced human displacements, fatalities, and eco
 
 The repository consists of the following scripts:
 
-01_IDMC_geolocation.ipynb
-
-02_GDIS_EMDAT_information_merge.ipynb
-
-03_GFD_preprocessing.py
-04_socio_economic_indicators_preprocessing.ipynb
-05_population_GPW_preprocessing.py
-06_population_GHSL_preprocessing.py
-07_demographic_preprocessing.py
-08_FLODIS_IDMC_matching.py
-09_FLODIS_EMDAT_matching.py
-10_FLODIS_postprocessing.ipynb
-11_plots_maps_stats.ipynb
-12_technical_validation.ipynb
+- 01_IDMC_geolocation.ipynb
+- 02_GDIS_EMDAT_information_merge.ipynb
+- 03_GFD_preprocessing.py
+- 04_socio_economic_indicators_preprocessing.ipynb
+- 05_population_GPW_preprocessing.py
+- 06_population_GHSL_preprocessing.py
+- 07_demographic_preprocessing.py
+- 08_FLODIS_IDMC_matching.py
+- 09_FLODIS_EMDAT_matching.py
+- 10_FLODIS_postprocessing.ipynb
+- 11_plots_maps_stats.ipynb
+- 12_technical_validation.ipynb
 
 Short description of the scripts:
 
