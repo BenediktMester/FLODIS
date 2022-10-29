@@ -1,7 +1,7 @@
 # FLODIS
 FLODIS links estimates of flood-induced human displacements, fatalities, and economic damages to flooded areas observed through remote sensing.
 
-The repository consists of the following scripts:
+The "scripts" folder consists of the following scripts:
 
 - 01_IDMC_geolocation.ipynb
 - 02_GDIS_EMDAT_information_merge.ipynb
@@ -20,7 +20,7 @@ Short description of the scripts:
 
 - 01 is used to identify subnational information in the IDMC displacement databank, and link it with the GADM dataset
 - 02 links GDIS (geolocated EM-DAT) with the disaster information of EM-DAT
-- 03, 04, 05, 06, and 07 preprocess all other datasets used
+- 03, 04, 05, 06, and 07 preprocess all other datasets used as input
 - 08 and 09 contain the matching process between the disaster databanks (IDMC/EM-DAT) and flood extent from GFD
 - 10 cleans the data, and merges disaster entries, if matched with the same GFD flood
 - 11 and 12 create all maps, and statistics used in the main manuscript
