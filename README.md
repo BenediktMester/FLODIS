@@ -1,6 +1,8 @@
 # FLODIS
 FLODIS links estimates of flood-induced human displacements, fatalities, and economic damages to flooded areas observed through remote sensing.
 
+The "FLODIS_datasets_output" folder contains the final FLODIS datasets for displacement, fatalities and damages. Additionally, geocoded IDMC data on displacement between 2008 and 2021 is provided, which can be linked with other hazard inventories.
+
 The "scripts" folder consists of the following scripts:
 
 - 01_IDMC_geolocation.ipynb
