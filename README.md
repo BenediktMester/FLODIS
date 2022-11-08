@@ -20,7 +20,7 @@ The "scripts" folder consists of the following scripts:
 
 Short description of the scripts:
 
-- 01 is used to identify subnational information in the IDMC displacement databank, and link it with the GADM dataset
+- 01 is used to identify subnational information in the IDMC displacement databank, and to link it with the GADM dataset (geocoding)
 - 02 links GDIS (geolocated EM-DAT) with the disaster information of EM-DAT
 - 03, 04, 05, 06, and 07 preprocess all other datasets used as input
 - 08 and 09 contain the matching process between the disaster databanks (IDMC/EM-DAT) and flood extent from GFD
